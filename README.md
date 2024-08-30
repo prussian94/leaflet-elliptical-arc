@@ -56,7 +56,7 @@ To use this tool in your project, you can include it in your project via the fol
 
 ## Credits
 
-This tool was developed by [Hakan Apohan](https://github.com/prussian94), inspired by the jjwtay's `leaflet.arc` plugin.
+This tool was developed by [Hakan Apohan](https://github.com/prussian94), inspired by the [jjwtay](https://github.com/jjwtay)'s `leaflet.arc` plugin.
 
 ## License
 
